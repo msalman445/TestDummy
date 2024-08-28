@@ -3,3 +3,4 @@ tests/coverage
 composer.phar
 composer.lock
 .tags*
+.*[ac]
